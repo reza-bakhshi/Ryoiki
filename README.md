@@ -9,11 +9,11 @@ DO NOT MANUFACTURE OR USE THE HARDWARE WITHOUT YOUR OWN VERIFICATION**
 
 ### TOP
 
-![top](img/3.png)
+![top](img/top.png)
 
 ### BOTTOM
 
-![bottom](img/4.png)
+![bottom](img/bottom.png)
 
 ---
 
